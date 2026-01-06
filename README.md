@@ -1,13 +1,25 @@
-# Constancias
+## Constancias
 Constancias que he acumulado durante mi formación académica
 
-<img width="1486" height="1046" alt="imagen" src="https://github.com/user-attachments/assets/4b28e0ba-f618-4397-9f84-a56037cbd87b" />
+<!-- Primer bloque: 2 imágenes grandes -->
+<div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center;">
+  <img src="https://github.com/user-attachments/assets/4b28e0ba-f618-4397-9f84-a56037cbd87b"
+       style="width:45%; max-width:700px;" />
 
-<img width="890" height="695" alt="imagen" src="https://github.com/user-attachments/assets/390c0d45-35b1-4fac-b1cd-f956b9143568" />
+  <img src="https://github.com/user-attachments/assets/390c0d45-35b1-4fac-b1cd-f956b9143568"
+       style="width:45%; max-width:700px;" />
+</div>
 
+<br>
 
-<img width="1386" height="791" alt="imagen" src="https://github.com/user-attachments/assets/47d56eeb-56d4-497b-a8d9-70c00ec365e9" />
+<!-- Segundo bloque: 3 imágenes pequeñas (2 por renglón) -->
+<div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center;">
+  <img src="https://github.com/user-attachments/assets/47d56eeb-56d4-497b-a8d9-70c00ec365e9"
+       style="width:30%; max-width:420px;" />
 
-<img width="1382" height="800" alt="imagen" src="https://github.com/user-attachments/assets/f481eac2-fdec-443e-a25b-3ca9a4ae38be" />
+  <img src="https://github.com/user-attachments/assets/f481eac2-fdec-443e-a25b-3ca9a4ae38be"
+       style="width:30%; max-width:420px;" />
 
-<img width="1382" height="781" alt="imagen" src="https://github.com/user-attachments/assets/94c6d1bc-b13a-47e7-94cd-0d1885a14d47" />
+  <img src="https://github.com/user-attachments/assets/94c6d1bc-b13a-47e7-94cd-0d1885a14d47"
+       style="width:30%; max-width:420px;" />
+</div>
