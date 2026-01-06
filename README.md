@@ -3,11 +3,8 @@ Constancias que he acumulado durante mi formación académica
 
 <!-- Primer bloque: 2 imágenes grandes -->
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center;">
-  <img src="https://github.com/user-attachments/assets/4b28e0ba-f618-4397-9f84-a56037cbd87b"
-       style="width:45%; max-width:700px;" />
+  <img src="https://github.com/user-attachments/assets/4b28e0ba-f618-4397-9f84-a56037cbd87b" style="width:45%; max-width:700px;" />  <img src="https://github.com/user-attachments/assets/390c0d45-35b1-4fac-b1cd-f956b9143568" style="width:45%; max-width:700px;" />
 
-  <img src="https://github.com/user-attachments/assets/390c0d45-35b1-4fac-b1cd-f956b9143568"
-       style="width:45%; max-width:700px;" />
 </div>
 
 <br>
